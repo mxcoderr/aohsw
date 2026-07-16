@@ -13,3 +13,4 @@ Here you will find various software parodies created for the sake of humor, expe
 aohsw itself doesn't have a license, but  projects  use the PBL (Parody Banana License - a custom humorous license  ).
 
 **No AI-generated code by default. The creator minimizes the use of AI-generated code and text, keeping it to a minimum.** 
+**I don't know English very well; I used a translator to create the readme,And unfortunately, there is no suitable place for the crossed-out text..**
