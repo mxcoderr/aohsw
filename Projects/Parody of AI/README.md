@@ -1,1 +1,1 @@
-[text](https://github.com/mxcoderr/mazak)
+https://github.com/mxcoderr/mazak
